@@ -1,6 +1,6 @@
 ## Hey, I'm Kasper 👋
 
-Head of Engineering @ [Scaleup Finance](https://scaleupfinance.com), building [Nume](https://nume.ai) - an AI-powered CFO designed for founders.
+Head of Engineering @ [Scaleup Finance](https://scaleup.finance), building [Nume](https://nume.ai) - an AI-powered CFO designed for founders.
 
 ### What I do
 - DevOps, cloud architecture, and full-stack development
